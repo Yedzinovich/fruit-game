@@ -16,4 +16,4 @@ Just click on [fruits-game](https://innawebdev.offyoucode.co.uk/fruits-game/) an
 
 ## fruits-game flowchart and logic
 
-![Capture](https://user-images.githubusercontent.com/25894229/67115014-36a51180-f1ab-11e9-959c-6ded189468f0.PNG)
+![Capture](https://user-images.githubusercontent.com/25894229/67736402-e06f7400-f9dd-11e9-85b9-1f69be0c6f0f.PNG)
