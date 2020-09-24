@@ -4,7 +4,7 @@ This is a fruits slicing game! Just move the mouse to cut fruits as fast as you 
 
 ## Where to find it?
 
-Just click on [fruits-game](https://innawebdev.offyoucode.co.uk/fruits-game/) and play! 
+Just click on [fruits-game](https://yedzinovich.github.io/fruits-game/) and play! 
 
 ## Built With
 
